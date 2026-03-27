@@ -1,0 +1,30 @@
+{
+  "Linear Regression": {
+    "MAE": 0.4645,
+    "RMSE": 0.5857,
+    "R2": 0.7673,
+    "CV_R2": 0.765
+  },
+  "Ridge Regression": {
+    "MAE": 0.4645,
+    "RMSE": 0.5857,
+    "R2": 0.7673,
+    "CV_R2": 0.7651
+  },
+  "Random Forest": {
+    "MAE": 0.4688,
+    "RMSE": 0.5902,
+    "R2": 0.7637,
+    "CV_R2": 0.7597
+  },
+  "Gradient Boosting": {
+    "MAE": 0.4897,
+    "RMSE": 0.6165,
+    "R2": 0.7422,
+    "CV_R2": 0.7259
+  },
+  "back_transform": {
+    "MAE_INR": 3847.67,
+    "RMSE_INR": 7437.12
+  }
+}

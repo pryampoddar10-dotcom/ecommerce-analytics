@@ -1,0 +1,6 @@
+{
+  "n_frequent_itemsets": 63,
+  "n_rules": 131,
+  "top_rule_lift": 1.2053,
+  "avg_confidence": 0.5109419847328245
+}
